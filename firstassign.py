@@ -1,0 +1,2 @@
+name = "favouredchi"
+print(name)
